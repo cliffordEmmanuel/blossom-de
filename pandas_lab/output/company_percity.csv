@@ -1,0 +1,203 @@
+,city,company_name_id
+0, Philadelphia,1
+1,Addison,1
+2,Ames,1
+3,Amherst,1
+4,Ann Arbor,2
+5,Arlington,2
+6,Armonk,1
+7,Atlanta,6
+8,Auburn Hills,1
+9,Aurora,1
+10,Austin,6
+11,Bainbridge Island,1
+12,Bala Cynwyd,1
+13,Baltimore,5
+14,Bellevue,3
+15,Berkeley,3
+16,Berkely,1
+17,Bethesda,2
+18,Beverly,1
+19,Bloomington,1
+20,Bonsall,1
+21,Boston,21
+22,"Boston, MA",1
+23,Boulder,2
+24,Bowie,1
+25,Bozeman,1
+26,Branchburg,1
+27,Brentwood,2
+28,Bristow,1
+29,Broadview,1
+30,Brooklyn,1
+31,Cambridge,8
+32,Campbell,1
+33,Cary,1
+34,Cedar City,1
+35,Centreville,1
+36,Champaign,1
+37,Chicago,17
+38,Chino Hills,1
+39,Cincinnati,1
+40,Cleveland,1
+41,Columbia,2
+42,Columbus,1
+43,Concord,1
+44,Corte Madera,1
+45,Costa Mesa,1
+46,Cupertino,1
+47,Danbury,1
+48,Danvers,1
+49,Dayton,1
+50,Deerfield Beach,1
+51,Denver,5
+52,"Denver, CO",1
+53,Detroit,1
+54,Draper,1
+55,Durham,1
+56,East Falmouth,1
+57,Eden Prairie,1
+58,El Dorado Hills,1
+59,El Segundo,1
+60,Emeryville,1
+61,Encinitas,1
+62,Englewood,1
+63,Evansville,1
+64,Fair Lawn,1
+65,Fairfax,1
+66,Falls Church,2
+67,Fishers,1
+68,Fort Wayne,1
+69,Friendswood,1
+70,Germantown,1
+71,Greensboro,1
+72,Henderson,1
+73,Herndon,1
+74,Hingham,1
+75,Hollywood,1
+76,Hopkinton,1
+77,Houston,4
+78,Indianapolis,4
+79,Irvine,2
+80,Ithaca,1
+81,Jericho,1
+82,Jersey City,1
+83,Kennesaw,1
+84,Kirkland,1
+85,Knoxville,1
+86,Leesburg Pike Vienna,1
+87,Lexington,1
+88,Little Rock,1
+89,Log Angeles,1
+90,Los Angeles,3
+91,Louisville,1
+92,Lyndhurst,1
+93,Madison,3
+94,Manassas,2
+95,Manchester,1
+96,Maryland Heights,1
+97,Mayfield Village,1
+98,McKinney,1
+99,McLean,2
+100,Melbourne,1
+101,Melville,1
+102,Menlo Park,7
+103,Miami,2
+104,Midlothian,1
+105,Milford,1
+106,Millbrae,1
+107,Milwaukee,1
+108,Minneapolis,1
+109,Mountain View,8
+110,Narberth,1
+111,Nashua,1
+112,Neenah,1
+113,New Brunswick,1
+114,New Haven,1
+115,New York,83
+116,New York City,3
+117,Newton,1
+118,Newtown Square,1
+119,Nokesville,1
+120,Norman,1
+121,North Kansas City,1
+122,Northbrook,1
+123,Norwalk,1
+124,Oakbrook Terrace,1
+125,Oakland,3
+126,Oakton,1
+127,Olathe,1
+128,Omaha,1
+129,Oregon House,1
+130,Palo Alto,8
+131,Paramus,1
+132,Parsippany,1
+133,Pasadena,1
+134,Philadelphia,4
+135,Phoenix,1
+136,Plano,1
+137,Portland,2
+138,Portsmouth,1
+139,Raleigh,1
+140,Redlands,1
+141,Redmond,3
+142,Redwood City,4
+143,Redwood Shores,1
+144,Reston,3
+145,Ridgefield,1
+146,Rockville,1
+147,Sacramento,2
+148,Sammamish,1
+149,San Antonio,1
+150,San Diego,2
+151,San Francisco,45
+152,San Jose,3
+153,San Leandro,1
+154,San Mateo,3
+155,San Ramon,1
+156,Santa Barbara,1
+157,Santa Clara,1
+158,Santa Cruz,1
+159,Santa Monica,3
+160,Schaumburg,1
+161,Scotsdale,1
+162,Seattle,15
+163,Short Hills,1
+164,Silver Spring,1
+165,Skokie,1
+166,Somerset,1
+167,Southlake,1
+168,St Louis,1
+169,St. Louis,2
+170,St. Paul,1
+171,Stamford,1
+172,State College,1
+173,Sterling,1
+174,Sugar Land,1
+175,Summit,1
+176,Sunnyvale,6
+177,Sutton,1
+178,Tallahassee,1
+179,Tampa,1
+180,Tempe,1
+181,Valley Forge,1
+182,Venice,1
+183,Vienna,1
+184,Villanova,1
+185,Vilnius,1
+186,Waltham,1
+187,Warren,2
+188,Washington,17
+189,Washington DC,3
+190,"Washington, D.C.",1
+191,Wayne,1
+192,West Loop,1
+193,West Warwick,1
+194,Westminster,1
+195,Westport,1
+196,White Plains,1
+197,White River Junction,1
+198,Williamsville,1
+199,Wyckoff,1
+200,Yonkers,1
+201,Yorkville,1
